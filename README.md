@@ -20,6 +20,8 @@ asm_x64.s (mov rbx,rdx -> mov rbx,rcx)
 
 full credit goes to the original authors.
 ```
+`this is how the stack looks like:`
+![image](https://github.com/zimnyaa/beepsyscall/assets/502153/62106e86-2359-4897-9d4b-bc0530aa389f)
 ```
 main.go contains a usage example.
 ```
